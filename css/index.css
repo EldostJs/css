@@ -1,0 +1,76 @@
+header{
+    color: blueviolet;
+    text-align: center ;
+}
+body{
+    background-color: rgb(83, 156, 82);
+}
+#firstpaket{
+    border-style: double;
+    background-color: aquamarine;
+    margin-left: 50px;
+    margin-right: 1000px;
+}
+#first {
+    color: rgb(3, 3, 3);
+    border-style: dashed;
+    border-color: blue;
+    border-radius: 5px;
+    text-align: left;
+}
+#consistens {
+    border-style: double;
+    border-color: blue;
+    border-radius: 5px;
+    text-align: left;
+}
+#buy {
+    border-style: dotted;
+    border-color: blue;
+    text-align: center;
+    border-radius: 5px;
+}
+#pricefirst
+{
+    text-align: center;
+    color: black;
+}
+#second{
+    border-style: double;
+    background-color: blueviolet;
+    margin-left: 550px;
+    margin-right: 600px;
+    margin-top: -239px;
+    text-align: center;
+}
+#secondname{
+    border-style: groove;
+}
+#secondconsistens{
+    border-style: inset;
+}
+#secondbuy{
+    border-style: double;
+}
+#third{
+    border-style: dashed;
+    background-color: brown;
+    margin-left: 950px;
+    margin-right: 50px;
+    margin-top: -239px;
+    text-align: right;
+}
+#thirdpaket{
+    border-style: dotted;
+    border-radius: 5px;
+}
+#thirdbuy{
+    border-style: dashed;
+    text-align: center;
+}
+#thirdprice{
+    text-align: center;
+}
+#thirdass{
+    border-style: double;
+}
